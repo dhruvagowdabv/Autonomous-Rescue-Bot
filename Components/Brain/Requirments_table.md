@@ -1,0 +1,1 @@
+## components of brain requirements comes here - Software and hardware

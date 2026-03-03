@@ -1,0 +1,1 @@
+## requirements for propulsion motors as a table - software and hardware
